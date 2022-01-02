@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:podcast="https://podcastindex.org/namespace/1.0">
+	<channel>
+		<generator>RedCircle VERIFY_TOKEN_868de0f6-0bc1-4b03-bd89-e0929d2a23b6</generator>
+		<title>Last Jew in Prague</title>
+		<link>https://redcircle.com/shows/lastjewinprague</link>
+		<language>en-US</language>
+		<copyright>Copyright © 2022 by Colin J Cohen. All rights reserved.</copyright>
+		<itunes:author>Colin J Cohen</itunes:author>
+		<itunes:summary>A homeless man recalls how his grandfather was given the choice of death or helping the Nazis find who murdered 3 SS men found in Prague and how his connection to this so upended his life. Blending historical fiction, mystery, and magic realism, Last Jew in Prague is a novel, but not just one. I was once a successful urban professional. I also worked in Prague for years, where I became immersed in the history, culture, and language of the people there. In recent years, though, I’ve struggled with homelessness. This story has helped inspire me forward, and I hope you find it just as inspiring.</itunes:summary>
+		<podcast:guid>868de0f6-0bc1-4b03-bd89-e0929d2a23b6</podcast:guid>
+		<description>
+			<![CDATA[<p>A homeless man recalls how his grandfather was given the choice of death or helping the Nazis find who murdered 3 SS men found in Prague and how his connection to this so upended his life. Blending historical fiction, mystery, and magic realism, <em>Last Jew in Prague</em> is a novel, but not just one. I was once a successful urban professional. I also worked in Prague for years, where I became immersed in the history, culture, and language of the people there. In recent years, though, I’ve struggled with homelessness. This story has helped inspire me forward, and I hope you find it just as inspiring.</p>]]>
+		</description>
+		<itunes:type>serial</itunes:type>
+		<itunes:owner>
+			<itunes:name>Colin J Cohen</itunes:name>
+			<itunes:email>colinjcohen@icloud.com</itunes:email>
+		</itunes:owner>
+		<itunes:image href="https://media.redcircle.com/images/2022/1/2/2/d54a2e20-ce56-4c68-bf3a-2425ef1e4b28_3a-cbe9364715fa_the_last_jew_in_prague.5.audio.jpg"/>
+		<itunes:category text="Fiction" />
+		<itunes:category text="History" />
+		<itunes:category text="Religion &amp; Spirituality">
+			<itunes:category text="Judaism"/></itunes:category>
+		<itunes:category text="Arts">
+			<itunes:category text="Books"/></itunes:category>
+		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<itunes:episodeType>trailer</itunes:episodeType>
+			<itunes:title>Trailer</itunes:title>
+			<title>Trailer</title>
+			<itunes:author>Colin J Cohen</itunes:author>
+			<description>
+				<![CDATA[<p>The preface of the novel.</p>]]>
+			</description>
+			<content:encoded>&lt;p&gt;The preface of the novel.&lt;/p&gt;</content:encoded>
+			<enclosure length="985965" type="audio/mpeg" url="https://stream.redcircle.com/episodes/c3d40473-e6c2-46fe-970a-a155201ac5ac/stream.mp3"/>
+			<guid isPermaLink="false">1800c8dc-b13d-43c7-b205-236abef6b50f</guid>
+			<link>https://redcircle.com/shows/868de0f6-0bc1-4b03-bd89-e0929d2a23b6/episodes/c3d40473-e6c2-46fe-970a-a155201ac5ac</link>
+			<pubDate>Sat, 01 Jan 2022 08:00:00 &#43;0000</pubDate>
+			<itunes:duration>61</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+	</channel>
+</rss>
